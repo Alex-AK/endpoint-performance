@@ -4,9 +4,10 @@ A simple and easy to use node/express server to query, test, and compare the per
 
 ## Getting Started (incomplete)
 - Fork or clone repository
-- Add a `.env` file with the following variables
+- Add a `.env` file with the following variables (see `.env.example` for template)
+  - PORT
+  - NODE_ENV
   - SERVER_URL
-  - tbd
 - Install dependencies using `yarn`
 
 ### License
